@@ -9,3 +9,6 @@ step1: subtract the hash value of character excluded from the window
 step2: divide the residual with prime no.
 step3: Add the following term:
 	ASC(last added term) * primeno**length
+	
+** MdOfficialArshad **
+- mujhe sab aata hai
